@@ -1,0 +1,26 @@
+2024/10/20-13:05:38.333 1e38 Reusing MANIFEST C:\Users\HP_RC\Documents\ware-wolf\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/20-13:05:38.334 1e38 Recovering log #63
+2024/10/20-13:05:39.168 1e38 Reusing old log C:\Users\HP_RC\Documents\ware-wolf\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000063.log 
+2024/10/20-13:05:41.379 460c Level-0 table #70: started
+2024/10/20-13:05:41.486 460c Level-0 table #70: 986520 bytes OK
+2024/10/20-13:05:41.488 460c Delete type=0 #63
+2024/10/20-13:05:41.489 460c Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/20-13:05:41.493 460c Level-0 table #72: started
+2024/10/20-13:05:41.520 460c Level-0 table #72: 249 bytes OK
+2024/10/20-13:05:41.522 460c Delete type=0 #69
+2024/10/20-13:05:41.522 460c Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1a\x00\x00\x05' @ 330383 : 0
+2024/10/20-13:05:41.522 460c Compacting 1@0 + 1@1 files
+2024/10/20-13:05:41.700 460c Generated table #73@0: 33218 keys, 564931 bytes
+2024/10/20-13:05:41.701 460c Compacted 1@0 + 1@1 files => 564931 bytes
+2024/10/20-13:05:41.701 460c compacted to: files[ 0 1 2 0 0 0 0 ]
+2024/10/20-13:05:41.702 460c Delete type=2 #72
+2024/10/20-13:05:41.702 460c Manual compaction at level-0 from '\x00\x1a\x00\x00\x05' @ 330383 : 0 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/20-13:05:45.320 27ac Compacting 1@1 + 2@2 files
+2024/10/20-13:05:45.659 27ac Generated table #74@1: 29973 keys, 2191610 bytes
+2024/10/20-13:05:45.882 27ac Generated table #75@1: 43261 keys, 1988203 bytes
+2024/10/20-13:05:45.882 27ac Compacted 1@1 + 2@2 files => 4179813 bytes
+2024/10/20-13:05:45.904 27ac compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/10/20-13:05:45.905 27ac Delete type=2 #66
+2024/10/20-13:05:45.905 27ac Delete type=2 #67
+2024/10/20-13:05:45.905 27ac Delete type=2 #70
+2024/10/20-13:05:45.905 27ac Delete type=2 #73
